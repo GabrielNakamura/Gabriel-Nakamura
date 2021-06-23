@@ -1,5 +1,5 @@
 ---
-title: Hi Hugo
+title: Testando Blogdown
 author: 'Gabriel Nakamura'
 date: '2021-06-23'
 slug: hi-hugo
